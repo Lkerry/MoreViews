@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoreViewsDemo</string>
+    <string name="planets_prompt">Choose a Planet</string>
+</resources>
